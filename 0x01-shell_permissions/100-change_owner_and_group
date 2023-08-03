@@ -1,2 +1,2 @@
 #!/bin/bash
-chowngrp vincent staff
+change_owner_and_group vincent staff
